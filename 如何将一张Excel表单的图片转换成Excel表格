@@ -1,53 +1,31 @@
-<h1 id="toc_0">如何将一张Excel表单的图片转换成Excel表格</h1>
+# 如何将一张Excel表单的图片转换成Excel表格
+#### 所需使用资源：
+* 上好的工具
 
-<h4 id="toc_1">所需使用资源：</h4>
+| 工具                  | Web链接                                         |
+|---------------------|----------------------------------------------- |
+| 腾讯云AI文字识别           | https://cloud.tencent.com/act/event/ocrdemo   |
+| it365 网页表格导入Excel工具 | https://it365.gitlab.io/zh-cn/table-to-excel/ |
 
-<ul>
-<li>上好的工具</li>
-</ul>
+* 花费一小段时间以及免费提供的Web算力
+* 提前准备好所需要装换的Excel清晰截图
 
-<table>
-<thead>
-<tr>
-<th>工具</th>
-<th>Web链接</th>
-</tr>
-</thead>
+#### 步骤
 
-<tbody>
-<tr>
-<td>腾讯云AI文字识别</td>
-<td><a href="https://cloud.tencent.com/act/event/ocrdemo">https://cloud.tencent.com/act/event/ocrdemo</a></td>
-</tr>
-<tr>
-<td>it365 网页表格导入Excel工具</td>
-<td><a href="https://it365.gitlab.io/zh-cn/table-to-excel/">https://it365.gitlab.io/zh-cn/table-to-excel/</a></td>
-</tr>
-</tbody>
-</table>
+1. 登陆到腾讯云AI文字识别
+2. 点击行业文档识别
+3. 点击上传图片，上传你所需要识别的Excel截图
+4. 复制在识别结果内的整个表格，就是选中所以的文字然后复制
 
-<ul>
-<li>花费一小段时间以及免费提供的Web算力</li>
-<li>提前准备好所需要装换的Excel清晰截图</li>
-</ul>
+![](media/15911522242913/15911527223450.jpg)
 
-<h4 id="toc_2">步骤</h4>
+![](media/15911522242913/15911528438593.jpg)
 
-<ol>
-<li>登陆到腾讯云AI文字识别</li>
-<li>点击行业文档识别</li>
-<li>点击上传图片，上传你所需要识别的Excel截图</li>
-<li>复制在识别结果内的整个表格，就是选中所以的文字然后复制</li>
-</ol>
+5、打开https://it365.gitlab.io/zh-cn/table-to-excel/
+6、粘贴刚刚所复制的文本
+7、点击下载Excel文档即可
 
-<p><figure><img src="media/15911522242913/15911527223450.jpg" alt=""/></figure>￼</p>
+![](media/15911522242913/15911533675664.jpg)
 
-<p><figure><img src="media/15911522242913/15911528438593.jpg" alt=""/></figure>￼</p>
+![](media/15911522242913/15911532787078.jpg)
 
-<p>5、打开<a href="https://it365.gitlab.io/zh-cn/table-to-excel/">https://it365.gitlab.io/zh-cn/table-to-excel/</a><br/>
-6、粘贴刚刚所复制的文本<br/>
-7、点击下载Excel文档即可</p>
-
-<p><figure><img src="media/15911522242913/15911533675664.jpg" alt=""/></figure>￼</p>
-
-<p><figure><img src="media/15911522242913/15911532787078.jpg" alt=""/></figure>￼</p>
